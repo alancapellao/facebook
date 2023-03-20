@@ -1,6 +1,8 @@
 # Facebook
 
-Login and registration screen Facebook developed with Java Swing and MySQL.
+Facebook is a project inspired by the login and registration screens of Facebook's own desktop application. User can register and login. Records are stored in a local database.
+
+Developed with Java and MySQL.
 
 <h3>Login</h3>
 
